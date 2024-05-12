@@ -1,2 +1,2 @@
-# leetCode
+# LeetCode
 Lets solve some problems....
